@@ -8,6 +8,7 @@
 
 #import "ViewController.h"
 #import "XixiViewController.h"
+#import <AFNetworking/AFNetworking.h>
 @interface ViewController ()
 
 @end
