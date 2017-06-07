@@ -23,6 +23,7 @@
     
     self.window.rootViewController =[[BaseNavViewController alloc]initWithRootViewController:rootViewC];
     [self.window makeKeyAndVisible];
+    NSLog(@"nishibushifengle");
     
     return YES;
 }
